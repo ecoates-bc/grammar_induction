@@ -1,0 +1,4 @@
+language,n_train,n_dev,k,states,acc
+gre,1800,200,10,5,73.5
+rus,1800,200,20,10,76.0
+nav,100,100,20,5,76.0

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/edith/LING/448/code/rpni_cpp/automata.hpp
+vector
+-
+string
+-
+memory
+-
+algorithm
+-
+iostream
+-
+queue
+-
+tuple
+-
+
+/home/edith/LING/448/code/rpni_cpp/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+automata.hpp
+/home/edith/LING/448/code/rpni_cpp/automata.hpp
+
